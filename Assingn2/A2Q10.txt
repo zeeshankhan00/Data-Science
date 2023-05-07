@@ -1,0 +1,14 @@
+In probability theory and statistics, a random variable is a variable that can take on different values randomly, depending on the outcome of a random event 
+or process. It is a mathematical abstraction that models the uncertainty inherent in a random phenomenon.
+
+Random variables can be either discrete or continuous. A discrete random variable is one that can only take on a finite or countably infinite number of 
+values (e.g. the number of heads in 10 coin flips), while a continuous random variable is one that can take on any value in a specified range (e.g. the height
+of a randomly selected person).
+
+Here are two examples of random variables:
+
+1. The number of rolls of a die until a 6 is obtained. This is an example of a discrete random variable, since the possible values are 1, 2, 3, 4, 5, 6, 7, 8, ...,
+and so on, and there are only a finite number of possible outcomes.
+
+2. The weight of a randomly selected apple. This is an example of a continuous random variable, since weight can take on any value in a specified range
+(e.g. 0 grams to infinity) and there are infinitely many possible outcomes.

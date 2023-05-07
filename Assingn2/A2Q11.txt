@@ -1,0 +1,14 @@
+In probability theory, two events are said to be independent if the occurrence of one event does not affect the probability of the other event occurring. In other
+words, the probability of both events occurring is the product of their individual probabilities.
+
+Here are two examples of independent events:
+
+1. Tossing a coin and rolling a die. The outcome of the coin toss does not affect the probability of any particular outcome on the die, and vice versa. The 
+probability of getting heads on the coin toss is 1/2, and the probability of rolling a 3 on the die is 1/6. The probability of getting heads and rolling a 3 is 
+the product of their individual probabilities: (1/2) x (1/6) = 1/12.
+
+2. Selecting two cards from a shuffled deck without replacement. The probability of selecting any particular card on the first draw is 1/52. After the first card 
+is drawn, there are 51 cards left in the deck, so the probability of selecting any particular card on the second draw is 1/51. The probability of selecting a
+particular pair of cards (e.g. the ace of spades and the queen of hearts) is the product of their individual probabilities: (1/52) x (1/51) = 1/2652. Since the
+cards are drawn without replacement, the outcome of the first draw does affect the probability of the second draw, but the events are still considered independent
+for the purpose of calculating their joint probability.
